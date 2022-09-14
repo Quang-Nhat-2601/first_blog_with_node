@@ -1,0 +1,24 @@
+{
+  "name": "golb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quang-Nhat-2601/first_blog_with_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quang-Nhat-2601/first_blog_with_node/issues"
+  },
+  "homepage": "https://github.com/Quang-Nhat-2601/first_blog_with_node#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
